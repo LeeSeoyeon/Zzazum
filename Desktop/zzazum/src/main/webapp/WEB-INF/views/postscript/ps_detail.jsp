@@ -51,7 +51,7 @@
 		</div>
 		</c:forEach>
 	</div>
-	
+	<!-- 16.01.31.20.47~21.47 추가추가추가추가추가추가추가추가추가추가 작성자 : 이서연 -->
 	<div class="ps_detail_body border_style">
 		<input type="imgae" class="nextBtn" src="resources/ps_icon/next.jpg">
 		<input type="image" class="preBtn" src="resources/ps_icon/pre.jpg">
